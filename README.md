@@ -5,7 +5,7 @@ Video Format Converter Web Front-End built with React
 
 2. Run npm install at the root of the project to install all required dependencies.
 
-3. Open the file package.json and configure "homepage" 和 "proxy" properly.
+3. Open the file package.json and configure "homepage" and "proxy" properly.
 
 4. Open the file API.js in the folder utils inside the folder src and configure properly the API end point.
 
